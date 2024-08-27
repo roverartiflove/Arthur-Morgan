@@ -1,0 +1,53 @@
+nav{
+    background-color: rgb(139, 0, 0);
+}
+
+.carousel-caption{
+    margin-bottom: 100px;
+}
+
+.row{
+    width: 95%;
+}
+
+body{
+    background-color: grey;
+}
+
+nav{
+    background-color: rgb(139, 0, 0);
+}
+
+.carrousel-caption{
+    margin-bottom: 100px;
+}
+
+h2{
+    margin-top: 10px;
+    color: darkred;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+h6{
+    size: 5px;
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h4{
+    text-align: center;
+    color: darkred;
+    margin-top: 50px;
+}
+
+.row{
+    width: 95%;
+}
+
+.text-center{
+    color: white;
+}
